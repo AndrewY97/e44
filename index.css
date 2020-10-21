@@ -1,0 +1,55 @@
+#header img{
+    width: 75px;
+    height: 70px;
+}
+
+#header{
+    background: #03045e !important;
+}
+
+#main .carousel-item img{
+    max-height: 70vh;
+    object-fit: cover;
+    opacity: 0.7;
+}
+
+#carrusel .overlay{
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    background-color: rgba(0,0,0,0.5);
+    color: white;
+}
+
+body{
+    background-color: #48cae4;
+}
+
+#ponentes p{
+    color: black;
+}
+#xd{
+    background-color: #ade8f4;
+}
+
+#lugar-fecha img{
+    max-width: 100%;
+}
+
+#lugar-fecha p{
+    color: black;
+}
+
+#lugar-fecha {
+    background-color: #0077b6;
+}
+
+#footer{
+    background-color: #03045e;
+}
+
+footer a, p{
+    color: lightgray;
+}
